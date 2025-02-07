@@ -1,0 +1,12 @@
+title: AE86 For Lion Sora
+originalAuthor: Froppy
+game: kh2
+description: Gives Lion Sora an AE86 so you can drift Pride Lands in style. Eurobeat not included.
+assets:
+- name: obj/P_LK100.mdlx
+  method: copy
+  source:
+  - name: obj/P_LK100.mdlx
+    
+    
+    
